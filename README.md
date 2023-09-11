@@ -12,7 +12,7 @@
   <img align="center" alt="Diego-Kub" height="40" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
 
   <img align="center" alt="Diego-Zbx" height="40" width="40" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg">
-  <img align="center" alt="Diego-Ela" height="40" width="40" src="https://symbols.getvecta.com/stencil_79/34_elastic-search-icon.96dc289cd3.svg">
+  <img align="center" alt="Diego-Ela" height="40" width="40" src="https://iconape.com/wp-content/files/kz/58552/svg/elastic-elasticsearch.svg">
   <img align="center" alt="Diego-Log" height="40" width="40" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt8b679e63f2b49b27/5d082d93877575d0584761c0/logo-logstash-32-color.svg">
   <img align="center" alt="Diego-Kib" height="40" width="40" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt4466841eed0bf232/5d082a5e97f2babb5af907ee/logo-kibana-32-color.svg">
   <img align="center" alt="Diego-Ans" height="50" width="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">
